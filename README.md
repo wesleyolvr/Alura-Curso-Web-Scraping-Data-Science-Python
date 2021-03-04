@@ -26,7 +26,6 @@ $ pip install pandas
 
 ## Usage
 ```python
-$ cd web-scraping-aula-1-inicio/
 $ jupyter notebook
 ```
 
